@@ -4,6 +4,8 @@
 
 - 🌱 I am currently studying android programming at Codial Training Center
 
+- 💻 Skills: ANDROID / KOTLIN / JAVA / REST API / RETROFIT / ROOM / MVVM / RXKOTLIN / FIREBASE
+
 - 📫 How to reach me:
 
  Telegram: https://t.me/AbubakirXakimov,
@@ -27,3 +29,6 @@ Weather: https://play.google.com/store/apps/details?id=com.x.a_technologies.weat
 <img src="https://play-lh.googleusercontent.com/Hdl7RnUki1ivPdlsPLmRMG_if5OZp9rj6KY1j5tZqrvNisfhrQy_2Q8Io39imWUg_RMf=s180-rw" height="64"/></h1>
 Reminder: https://play.google.com/store/apps/details?id=com.x.a_technologies.reminder
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbubakirXakimov&repo=Reminder_App_Android)](https://github.com/AbubakirXakimov/Reminder_App_Android)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbubakirXakimov&theme=solarized_dark)
