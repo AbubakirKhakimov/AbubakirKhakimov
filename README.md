@@ -16,8 +16,10 @@
                       
 - 📱 Top 3 Apps I've Created for Android:
 
-<img src="https://play-lh.googleusercontent.com/phSIMtucSfb4kmhdDDL_rWhZ74moYVC7IOLXH_daCUeg4-01TUlshud-WPpvATiLExY=s180-rw" height="64" /></h1>
-Kelajak book: https://play.google.com/store/apps/details?id=com.x.a_technologies.kelajak_book
+
+<h1 align="center" <a href="https://play.google.com/store/apps/details?id=com.x.a_technologies.kelajak_book" target="_blank">Kelajak book</a>
+<img src="https://play-lh.googleusercontent.com/phSIMtucSfb4kmhdDDL_rWhZ74moYVC7IOLXH_daCUeg4-01TUlshud-WPpvATiLExY=s180-rw" height="64"/></h1>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbubakirXakimov&repo=Kelajak_Book)](https://github.com/AbubakirXakimov/Kelajak_Book)
 
 
