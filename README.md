@@ -23,13 +23,15 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbubakirXakimov&repo=Kelajak_Book)](https://github.com/AbubakirXakimov/Kelajak_Book)
 
 
-<img src="https://play-lh.googleusercontent.com/i75N7nTHr7r8kw_DIJ9GOGrtlFzzmoNJ-cWxnb-VeaO1iGQPGLSk5dvHgDRmaDvHqUE=s180-rw" height="64"/></h1>
+<img src="https://play-lh.googleusercontent.com/i75N7nTHr7r8kw_DIJ9GOGrtlFzzmoNJ-cWxnb-VeaO1iGQPGLSk5dvHgDRmaDvHqUE=s180-rw" height="64"/>
 Weather: https://play.google.com/store/apps/details?id=com.x.a_technologies.weather
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbubakirXakimov&repo=Weather_App_Android)](https://github.com/AbubakirXakimov/Weather_App_Android)
 
 
-<img src="https://play-lh.googleusercontent.com/Hdl7RnUki1ivPdlsPLmRMG_if5OZp9rj6KY1j5tZqrvNisfhrQy_2Q8Io39imWUg_RMf=s180-rw" height="64"/></h1>
+<img src="https://play-lh.googleusercontent.com/Hdl7RnUki1ivPdlsPLmRMG_if5OZp9rj6KY1j5tZqrvNisfhrQy_2Q8Io39imWUg_RMf=s180-rw" height="64"/>
 Reminder: https://play.google.com/store/apps/details?id=com.x.a_technologies.reminder
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbubakirXakimov&repo=Reminder_App_Android)](https://github.com/AbubakirXakimov/Reminder_App_Android)
 
 
