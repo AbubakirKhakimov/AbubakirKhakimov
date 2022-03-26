@@ -14,15 +14,16 @@
                       
 - 📱 Top 3 Apps I've Created for Android:
 
-![alt tag](https://play-lh.googleusercontent.com/phSIMtucSfb4kmhdDDL_rWhZ74moYVC7IOLXH_daCUeg4-01TUlshud-WPpvATiLExY=s180-rw) 
+<img src="https://play-lh.googleusercontent.com/phSIMtucSfb4kmhdDDL_rWhZ74moYVC7IOLXH_daCUeg4-01TUlshud-WPpvATiLExY=s180-rw" height="64" /></h1>
+Kelajak book: https://play.google.com/store/apps/details?id=com.x.a_technologies.kelajak_book
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbubakirXakimov&repo=Kelajak_Book)](https://github.com/anuraghazra/github-readme-stats)
 
-Kelajak book: https://play.google.com/store/apps/details?id=com.x.a_technologies.kelajak_book,
 
-![alt tag](https://play-lh.googleusercontent.com/i75N7nTHr7r8kw_DIJ9GOGrtlFzzmoNJ-cWxnb-VeaO1iGQPGLSk5dvHgDRmaDvHqUE=s180-rw) 
+<img src="https://play-lh.googleusercontent.com/i75N7nTHr7r8kw_DIJ9GOGrtlFzzmoNJ-cWxnb-VeaO1iGQPGLSk5dvHgDRmaDvHqUE=s180-rw" height="64"/></h1>
+Weather: https://play.google.com/store/apps/details?id=com.x.a_technologies.weather
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbubakirXakimov&repo=Weather_App_Android)](https://github.com/anuraghazra/github-readme-stats)
 
-Weather: https://play.google.com/store/apps/details?id=com.x.a_technologies.weather,
 
-![alt tag](https://play-lh.googleusercontent.com/Hdl7RnUki1ivPdlsPLmRMG_if5OZp9rj6KY1j5tZqrvNisfhrQy_2Q8Io39imWUg_RMf=s180-rw) 
-
+<img src="https://play-lh.googleusercontent.com/Hdl7RnUki1ivPdlsPLmRMG_if5OZp9rj6KY1j5tZqrvNisfhrQy_2Q8Io39imWUg_RMf=s180-rw" height="64"/></h1>
 Reminder: https://play.google.com/store/apps/details?id=com.x.a_technologies.reminder
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbubakirXakimov&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbubakirXakimov&repo=Reminder_App_Android)](https://github.com/anuraghazra/github-readme-stats)
