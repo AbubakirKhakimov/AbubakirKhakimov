@@ -1,4 +1,6 @@
-### Hi there 👋 I'm Abubakir!
+<h1 align="center">Hi there, I'm <a href="https://t.me/AbubakirXakimov" target="_blank">Abubakir</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
 - 🎓 I study at the Tashkent University of Information Technologies.
 
