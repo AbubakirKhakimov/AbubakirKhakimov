@@ -1,8 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/AbubakirXakimov" target="_blank">Abubakir</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
-
-- 🎓 I study at the Tashkent University of Information Technologies.
+<h3 align="center">Student of Tashkent University of Information Technologies. Junior Android programmer. Founder of over 6 major Android apps.</h3>
 
 - 🌱 I am currently studying android programming at Codial Training Center
 
@@ -27,3 +25,4 @@ Weather: https://play.google.com/store/apps/details?id=com.x.a_technologies.weat
 ![alt tag](https://play-lh.googleusercontent.com/Hdl7RnUki1ivPdlsPLmRMG_if5OZp9rj6KY1j5tZqrvNisfhrQy_2Q8Io39imWUg_RMf=s180-rw) 
 
 Reminder: https://play.google.com/store/apps/details?id=com.x.a_technologies.reminder
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbubakirXakimov&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
