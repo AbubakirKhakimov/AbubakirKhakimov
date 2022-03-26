@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Abubakir!
 
+- 🎓 I study at the Tashkent University of Information Technologies.
+
 - 🌱 I am currently studying android programming at Codial Training Center
 
 - 📫 How to reach me:
