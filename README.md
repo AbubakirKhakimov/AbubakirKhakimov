@@ -8,7 +8,8 @@
 
 - 📫 How to reach me:
 
- Telegram: https://t.me/AbubakirXakimov,
+<h3 <a href="https://t.me/AbubakirXakimov" target="_blank">Telegram</a> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" height="32"/></h3>
  
  Instagram: https://www.instagram.com/abubakir_xakimov?r=nametag,
  
