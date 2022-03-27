@@ -26,20 +26,20 @@
 <h3> <img src="https://play-lh.googleusercontent.com/phSIMtucSfb4kmhdDDL_rWhZ74moYVC7IOLXH_daCUeg4-01TUlshud-WPpvATiLExY=s180-rw" height="64"/>
 <a href="https://play.google.com/store/apps/details?id=com.x.a_technologies.kelajak_book" target="_blank">Kelajak book</a> </h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbubakirXakimov&repo=Kelajak_Book)](https://github.com/AbubakirXakimov/Kelajak_Book)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbubakirKhakimov&repo=Kelajak_Book)](https://github.com/AbubakirXakimov/Kelajak_Book)
 
 
 <h3> <img src="https://play-lh.googleusercontent.com/i75N7nTHr7r8kw_DIJ9GOGrtlFzzmoNJ-cWxnb-VeaO1iGQPGLSk5dvHgDRmaDvHqUE=s180-rw" height="64"/>
 <a href="https://play.google.com/store/apps/details?id=com.x.a_technologies.weather" target="_blank">Weather</a> </h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbubakirXakimov&repo=Weather_App_Android)](https://github.com/AbubakirXakimov/Weather_App_Android)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbubakirKhakimov&repo=Weather_App_Android)](https://github.com/AbubakirXakimov/Weather_App_Android)
 
 
 <h3> <img src="https://play-lh.googleusercontent.com/Hdl7RnUki1ivPdlsPLmRMG_if5OZp9rj6KY1j5tZqrvNisfhrQy_2Q8Io39imWUg_RMf=s180-rw" height="64"/>
 <a href="https://play.google.com/store/apps/details?id=com.x.a_technologies.reminder" target="_blank">Reminder</a> </h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbubakirXakimov&repo=Reminder_App_Android)](https://github.com/AbubakirXakimov/Reminder_App_Android)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbubakirKhakimov&repo=Reminder_App_Android)](https://github.com/AbubakirXakimov/Reminder_App_Android)
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbubakirXakimov&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbubakirKhakimov&theme=solarized_dark)
 
