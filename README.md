@@ -4,7 +4,7 @@
 
 - 🌱 I am currently studying android programming at Codial Training Center
 
-- 💻 Skills: ANDROID / KOTLIN / JAVA / REST API / RETROFIT / ROOM / MVVM / RXKOTLIN / FIREBASE
+- 💻 Skills: ANDROID / KOTLIN / JAVA / REST API / RETROFIT / ROOM / MVVM / RXKOTLIN / RXJAVA / FIREBASE
 
 
 ## 📫 How to reach me:
