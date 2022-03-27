@@ -6,20 +6,25 @@
 
 - 💻 Skills: ANDROID / KOTLIN / JAVA / REST API / RETROFIT / ROOM / MVVM / RXKOTLIN / FIREBASE
 
+
 - 📫 How to reach me:
 
-<h3 <a href="https://t.me/AbubakirXakimov" target="_blank">Telegram</a> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" height="32"/></h3>
+<h3> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" height="32"/>
+<a href="https://t.me/AbubakirXakimov" target="_blank">Telegram</a> </h3>
  
- Instagram: https://www.instagram.com/abubakir_xakimov?r=nametag,
  
- Google play market: https://play.google.com/store/apps/dev?id=6600228045053167858
+<h3> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" height="32"/>
+<a href="https://www.instagram.com/abubakir_xakimov?r=nametag" target="_blank">Instagram</a> </h3>
+ 
+ 
+<h3> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Google_Play_2016_icon.svg/1200px-Google_Play_2016_icon.svg.png" height="32"/>
+<a href="https://play.google.com/store/apps/dev?id=6600228045053167858" target="_blank">Google play market</a> </h3>
+                      
                       
 - 📱 Top 3 Apps I've Created for Android:
 
-
-<h2 align="center" <a href="https://play.google.com/store/apps/details?id=com.x.a_technologies.kelajak_book" target="_blank">Kelajak book</a>
-<img src="https://play-lh.googleusercontent.com/phSIMtucSfb4kmhdDDL_rWhZ74moYVC7IOLXH_daCUeg4-01TUlshud-WPpvATiLExY=s180-rw" height="64"/></h2>
+<h3> <img src="https://play-lh.googleusercontent.com/phSIMtucSfb4kmhdDDL_rWhZ74moYVC7IOLXH_daCUeg4-01TUlshud-WPpvATiLExY=s180-rw" height="64"/>
+<a href="https://play.google.com/store/apps/details?id=com.x.a_technologies.kelajak_book" target="_blank">Kelajak book</a> </h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbubakirXakimov&repo=Kelajak_Book)](https://github.com/AbubakirXakimov/Kelajak_Book)
 
