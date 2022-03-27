@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/AbubakirKhakimov" target="_blank">Abubakir</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Student of Tashkent University of Information Technologies. Junior Android programmer. Founder of over 6 major Android apps.</h3>
+<h3 align="center">Student of Tashkent University of Information Technologies. Junior Android developer. Founder of over 6 major Android apps.</h3>
 
 - 🌱 I am currently studying android programming at Codial Training Center
 
