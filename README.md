@@ -7,7 +7,7 @@
 - 💻 Skills: ANDROID / KOTLIN / JAVA / REST API / RETROFIT / ROOM / MVVM / RXKOTLIN / FIREBASE
 
 
-- 📫 How to reach me:
+## 📫 How to reach me:
 
 <h3> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" height="32"/>
 <a href="https://t.me/AbubakirKhakimov" target="_blank">Telegram</a> </h3>
@@ -21,7 +21,7 @@
 <a href="https://play.google.com/store/apps/dev?id=6600228045053167858" target="_blank">Google play market</a> </h3>
                       
                       
-- 📱 Top 3 Apps I've Created for Android:
+## 📱 Top 3 Apps I've Created for Android:
 
 <h3> <img src="https://play-lh.googleusercontent.com/phSIMtucSfb4kmhdDDL_rWhZ74moYVC7IOLXH_daCUeg4-01TUlshud-WPpvATiLExY=s180-rw" height="64"/>
 <a href="https://play.google.com/store/apps/details?id=com.x.a_technologies.kelajak_book" target="_blank">Kelajak book</a> </h3>
