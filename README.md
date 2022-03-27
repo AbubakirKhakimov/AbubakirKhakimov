@@ -40,6 +40,3 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbubakirKhakimov&repo=Reminder_App_Android)](https://github.com/AbubakirXakimov/Reminder_App_Android)
 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbubakirKhakimov&theme=solarized_dark)
-
