@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/AbubakirKhakimov" target="_blank">Abubakir</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Student of Tashkent University of Information Technologies. Junior Android developer. Founder of over 6 major Android apps.</h3>
+<h3 align="center">Student of Tashkent University of Information Technologies. Junior Android developer. Founder of over 10 major Android apps.</h3>
 
-- 🌱 I am currently studying android programming at Codial Training Center
+- 🌱 I graduated from the Codial Training Center for Android programming.
 
-- 💻 Skills: ANDROID / KOTLIN / JAVA / REST API / RETROFIT / ROOM / MVVM / FIREBASE
+- 💻 Skills: Android sdk / Kotlin / Java / Git, GitHub / Gradle / JSON / GSON / MVVM / ViewModel, LiveData / Rest API / Retrofit 2 / Rxjava / SQLite / ROOM / WebView / Firebase / Glide, Picasso / Jetpack navigation / Figma / Kotlin coroutines / Notification / Play market
 
 - 📄 <a href="https://myresume.ru/resume/1xEkNRQdHAy/" target="_blank">Resume</a>
 
