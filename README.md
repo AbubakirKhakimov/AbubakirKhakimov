@@ -4,7 +4,7 @@
 
 - 🌱 I graduated from the Codial Training Center for Android programming.
 
-- 💻 Skills: Android sdk / Kotlin / Java / Git, GitHub / Gradle / JSON / GSON / MVVM / ViewModel, LiveData / Rest API / Retrofit 2 / Rxjava / SQLite / ROOM / WebView / Firebase / Glide, Picasso / Jetpack navigation / Figma / Kotlin coroutines / Notification / Play market
+- 💻 Skills: Android sdk / Kotlin / Java / Git, GitHub / Gradle / JSON / GSON / MVVM / ViewModel, LiveData / Rest API / Retrofit 2 / Rxjava / SQLite / ROOM / WebView / Firebase / Glide, Picasso / Jetpack navigation / Figma / Kotlin coroutines / Kotlin flows / Notification / Play market
 
 - 📄 <a href="https://myresume.ru/resume/1xEkNRQdHAy/" target="_blank">Resume</a>
 
