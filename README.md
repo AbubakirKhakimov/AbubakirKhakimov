@@ -25,8 +25,8 @@
                       
 ## 📱 Top 4 Apps I've Created for Android:
 
-<h3> <img src="https://github.com/AbubakirKhakimov/Hemis-assistant/blob/master/core/resource/src/main/res/drawable/hemis_assistant_logo_rounded.png" height="64"/>
-<a href="https://play.google.com/store/apps/details?id=uz.abubakir_khakimov.hemis_assistant" target="_blank">Hemis assistant</a> </h3>
+<h3> <img src="https://github.com/AbubakirKhakimov/HEMIS-Assistant/blob/master/core/resource/src/main/res/drawable/hemis_assistant_logo_rounded.png" height="64"/>
+<a href="https://play.google.com/store/apps/details?id=uz.abubakir_khakimov.hemis_assistant" target="_blank">HEMIS Assistant</a> </h3>
 
 <h3> <img src="https://play-lh.googleusercontent.com/phSIMtucSfb4kmhdDDL_rWhZ74moYVC7IOLXH_daCUeg4-01TUlshud-WPpvATiLExY=s180-rw" height="64"/>
 <a href="https://play.google.com/store/apps/details?id=com.x.a_technologies.kelajak_book" target="_blank">Kelajak book</a> </h3>
